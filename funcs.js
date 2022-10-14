@@ -1,18 +1,4 @@
-// function rec(num){
-//     if(num ==100)return;
-//     if((num%3 ==0) && (num%5 ==0)){
-//         console.log("FizzBuzz")
-//     }
-//     else if(num%3 ==0){
-//         console.log("fizz")
-//     }
-//     else if(num%5 ==0){
-//         console.log("buzz")
-//     }
-//     console.log(num(1))
-    
 
-// }
 function rec(num){
     if(num<=100){
     if(num % 3 === 0 && num % 5 ===0){
