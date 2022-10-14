@@ -1,4 +1,4 @@
-
+//from 1 t0 100
 function rec(num){
     if(num<=100){
     if(num % 3 === 0 && num % 5 ===0){
@@ -17,3 +17,5 @@ function rec(num){
     }
 }
 rec(1)
+
+//from 100 to 1
